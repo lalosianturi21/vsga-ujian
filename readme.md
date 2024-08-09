@@ -133,6 +133,16 @@ http://localhost/ujian_jwd/index.php
 ![image](https://github.com/user-attachments/assets/c379c46b-c9d1-4a78-8c37-7b2369c93612)
 ![image](https://github.com/user-attachments/assets/76b1148b-c4ce-4f4c-908a-565cd505ae7d)
 ![image](https://github.com/user-attachments/assets/5e144f1c-27f3-4b96-b08f-088589c0cd04)
+![image](https://github.com/user-attachments/assets/9d97787e-d6c3-4024-8a86-52e7b25cbafe)
+![image](https://github.com/user-attachments/assets/6bf05eb5-030b-4984-91c4-6410a316d1be)
+![image](https://github.com/user-attachments/assets/af92b55c-4715-40ee-891f-185ea4bc4e86)
+![image](https://github.com/user-attachments/assets/176a4a35-c2b1-44a5-9959-13fefd79fcda)
+![image](https://github.com/user-attachments/assets/9afce7e9-c836-44e6-865e-d8234d02757a)
+
+
+
+
+
 
 
 
