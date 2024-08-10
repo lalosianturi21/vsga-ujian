@@ -95,6 +95,7 @@ require "config/conn.php";
   </div>
 </nav>
 <!-- <navbar> -->
+<a target="_blank" href="https://api.whatsapp.com/send?phone=62xxxxxx&text=pesan-intro-anda" class="whatsapp-button"><i class="fab fa-whatsapp"></i></a>
 
         <?php include($view) ?>
 

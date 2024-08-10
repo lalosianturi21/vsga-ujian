@@ -26,7 +26,7 @@
                 <th scope="col" width="200">File</th>
                 <th scope="col">Keterangan</th>
                 <th scope="col">Nama Tempat</th>
-                <th scope="col" width="100">Aksi</th>
+                <th scope="col" width="150">Aksi</th>
             </tr>
         </thead>
         <tbody>

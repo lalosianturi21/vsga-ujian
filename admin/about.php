@@ -21,7 +21,7 @@ unset($_SESSION['error']); ?>
                 <th scope="col" width="100">Cover</th>
                 <th scope="col">Judul</th>
                 <th scope="col">Deskripsi</th>
-                <th scope="col" width="100">Aksi</th>
+                <th scope="col" width="150">Aksi</th>
             </tr>
         </thead>
         <tbody>
